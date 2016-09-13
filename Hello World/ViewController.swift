@@ -6,12 +6,9 @@
 //  Copyright © 2016 Oyunbozan. All rights reserved.
 //
 //	Nabıyon keranacı
-<<<<<<< HEAD
 //	Lololo
-=======
 //  iyidir sen
 
->>>>>>> 87e392e24411b1d073336cf47e1b09a45f07b110
 
 import UIKit
 
