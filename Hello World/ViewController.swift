@@ -5,6 +5,7 @@
 //  Created by Ozan Oğuz Erden on 13/09/2016.
 //  Copyright © 2016 Oyunbozan. All rights reserved.
 //
+//	Nabıyon keranacı
 
 import UIKit
 
