@@ -6,6 +6,8 @@
 //  Copyright © 2016 Oyunbozan. All rights reserved.
 //
 //	Nabıyon keranacı
+//  iyidir sen
+
 
 import UIKit
 
